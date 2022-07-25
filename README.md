@@ -9,8 +9,6 @@ Sample Input
 Sample Output
 The entered Strings do not contain Balanced Brackets
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 Question 2) Find a pair with a given sum in Binary Search Tree
 
                     40
@@ -20,4 +18,4 @@ Question 2) Find a pair with a given sum in Binary Search Tree
               10   30 50  70
               
  Sum = 130
-Pair is (60,70
+Pair is (60,70)
